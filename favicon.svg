@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -100 200 200">
+  <defs>
+    <g id="arm"><ellipse cx="0" cy="-58" rx="22" ry="38" fill="#8FAE8B"/><ellipse cx="0" cy="-60" rx="10" ry="24" fill="#3E6B4F"/></g>
+  </defs>
+  <use href="#arm"/><use href="#arm" transform="rotate(90)"/><use href="#arm" transform="rotate(180)"/><use href="#arm" transform="rotate(270)"/>
+  <circle r="26" fill="#D9A43A"/><circle r="15" fill="#5B84A6"/>
+</svg>
